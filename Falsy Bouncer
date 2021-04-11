@@ -1,0 +1,7 @@
+function bouncer(arr) {
+  const filtering = arr.filter(Boolean)
+  return filtering  
+  
+}
+
+bouncer([7, "ate", "", false, 9]);
