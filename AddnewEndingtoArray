@@ -1,0 +1,11 @@
+function resolveDis(array,ending) {
+
+let iterating = array.map(function(items){
+    return items + ending
+});
+return iterating
+
+};
+resolveDis(["dog", "cat", "kitten", "pig", "cow", "frog", "horse"], "y");
+
+
