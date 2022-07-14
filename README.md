@@ -1,2 +1,2 @@
 # Algorithms
-Solved Algorithms.
+Solved Algorithms in JavaScript.
